@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+- :woman_technologist: I'm a full stack developer.
+- 🌱 I’m currently learning [Elixir](http://elixir-lang.org/) and Data Science
+- 👯 I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-beatrizChagas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-chagas-28b532a1/)
+
 
 <!--
 **beatrizChagas/beatrizChagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
