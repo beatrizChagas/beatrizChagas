@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+## Hi there 👋
 
 - :woman_technologist: I'm a full stack developer.
 - 🌱 I’m currently learning [Elixir](http://elixir-lang.org/) and Data Science
